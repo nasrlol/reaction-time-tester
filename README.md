@@ -1,2 +1,2 @@
 # ReactionTime
-Simple python applications that measures your reaction time
+A simple Python application that measures your reaction time.
